@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Chandler
+
+I'm currently a 4th year Computer Science student at Western University and SWE Intern at Bank of Montreal on the US API Delivery Team.
+
+In the past, I have interned at Roche and various startups. 
 
 <!--
 **chandlerkx/chandlerkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
