@@ -1,8 +1,8 @@
 ## Hi I'm Chandler
 
-I'm currently a 4th year Computer Science student at Western University and SWE Intern at Bank of Montreal on the US API Delivery Team.
+I'm currently a 4th year Computer Science student at Western University, Production Engineering Fellow at Meta & MLH, and SWE Intern at TD Bank on the QE Dev Tooling Team.
 
-In the past, I have interned at Roche and various startups. 
+In the past, I have interned at BMO, Roche and various startups. 
 
 <!--
 **chandlerkx/chandlerkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
